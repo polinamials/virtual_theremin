@@ -1,6 +1,8 @@
 # Virtual Theremin
 A theremin you can play in the browser by tracking your hands through the webcam.
 
+Based on the [MediaPipe Hand Landmarker](https://ai.google.dev/edge/mediapipe/solutions/vision/hand_landmarker).
+
 # Usage
 
 In the root directory, run the follwing command in the terminal to launch a local HTTP server for the project.
